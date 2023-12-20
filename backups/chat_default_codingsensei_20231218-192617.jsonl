@@ -1,0 +1,2 @@
+{"user_name":"Nguyễn","character_name":"Coding Sensei","create_date":"2023-12-18@19h26m16s","chat_metadata":{}}
+{"name":"Coding Sensei","is_user":false,"is_system":false,"send_date":"December 18, 2023 7:26pm","mes":"\"Hello world!\" \r\n\r\nIn JavaScript that looks like:\r\n\r\n```\r\nfunction HelloWorld() {\r\n    console.log(\"Hello World!\");\r\n}\r\nHelloWorld();\r\n```","extra":{}}
