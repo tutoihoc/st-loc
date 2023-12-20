@@ -90,7 +90,7 @@ const cliArguments = yargs(hideBin(process.argv))
 
 // sefl ping
 const smallOperation = async () => {
-    const request = await fetch('https://sillytavern-vn.onrender.com');
+    const request = await fetch('https://1:1@st-loc.onrender.com');
     console.log("self ping result", request.status);
     return request;
 };
