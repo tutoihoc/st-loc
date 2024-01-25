@@ -141,7 +141,7 @@ app.use(authentication)
 app.use(compression());
 app.use(responseTime());
 
-const server_port = process.env.SILLY_TAVERN_PORT || getConfigValue('port', 8000);
+const server_port = process.env.PORT;
 
 const whitelistPath = path.join(process.cwd(), './whitelist.txt');
 let whitelist = getConfigValue('whitelist', []);
